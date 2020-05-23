@@ -1,4 +1,4 @@
-# udemycourse
+# nextMLS
 
 ## Project setup
 ```
